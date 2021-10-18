@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30128.74
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMod", "TestMod.csproj", "{788BC472-59F7-46F6-B760-65C18BA74389}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDeathAnimations", "NoDeathAnimations.csproj", "{788BC472-59F7-46F6-B760-65C18BA74389}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +17,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DDF15A6C-2A44-4EBE-BD85-F3EE61DCD8BF}
+		SolutionGuid = {9B172BE3-2480-4A22-A06F-319F48CC83B5}
 	EndGlobalSection
 EndGlobal
