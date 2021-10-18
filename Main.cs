@@ -28,11 +28,10 @@ namespace NEP.NoDeathAnimations
     {
         public static NDAMod instance;
 
-        public TriggerRefProxy.NpcType npcType { get; set; }
-        public float muscleWeight { get; set; } = 0f;
-        public bool enableAnimations { get; set; } = true;
-
         public Dictionary<TriggerRefProxy.NpcType, bool> enabledDictionary;
+        public float muscleWeight { get; set; } = 0f;
+        public bool enableAnimations { get; set; } = false;
+
 
         public override void OnApplicationStart()
         {
